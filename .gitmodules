@@ -1,0 +1,3 @@
+[submodule "my_first_rails_app"]
+	path = my_first_rails_app
+	url = git@adamosystem.com:Adamo-Ruby/bui-hoang-ha---odin-project.git
