@@ -13,3 +13,6 @@
 [submodule "members_only"]
 	path = members_only
 	url = https://github.com/Hadayxinchao/Members-Only
+[submodule "private_events"]
+	path = private_events
+	url = https://github.com/Hadayxinchao/Private_Events
