@@ -1,0 +1,3 @@
+[submodule "my_first_rails_app"]
+	path = my_first_rails_app
+	url = https://github.com/Hadayxinchao/my_first_rails_app
