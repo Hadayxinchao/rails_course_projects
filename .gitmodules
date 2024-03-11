@@ -7,3 +7,6 @@
 [submodule "micro_reddit"]
 	path = micro_reddit
 	url = https://github.com/Hadayxinchao/Micro_Reddit
+[submodule "re_former"]
+	path = re_former
+	url = https://github.com/Hadayxinchao/Re-former
