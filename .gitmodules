@@ -4,3 +4,6 @@
 [submodule "blog_app"]
 	path = blog_app
 	url = https://github.com/Hadayxinchao/blog_app
+[submodule "micro_reddit"]
+	path = micro_reddit
+	url = https://github.com/Hadayxinchao/Micro_Reddit
