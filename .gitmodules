@@ -16,3 +16,6 @@
 [submodule "private_events"]
 	path = private_events
 	url = https://github.com/Hadayxinchao/Private_Events
+[submodule "flight_booker"]
+	path = flight_booker
+	url = https://github.com/Hadayxinchao/odin_flight_booker
