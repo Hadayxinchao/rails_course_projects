@@ -19,3 +19,6 @@
 [submodule "flight_booker"]
 	path = flight_booker
 	url = https://github.com/Hadayxinchao/odin_flight_booker
+[submodule "kittens_api"]
+	path = kittens_api
+	url = https://github.com/Hadayxinchao/odin_kittens
