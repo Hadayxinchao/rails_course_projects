@@ -22,3 +22,6 @@
 [submodule "kittens_api"]
 	path = kittens_api
 	url = https://github.com/Hadayxinchao/odin_kittens
+[submodule "cloudinary_api_photowidget"]
+	path = cloudinary_api_photowidget
+	url = https://github.com/Hadayxinchao/cloudinary_api_photowidget
