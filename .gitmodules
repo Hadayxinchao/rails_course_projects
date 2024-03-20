@@ -25,3 +25,6 @@
 [submodule "cloudinary_api_photowidget"]
 	path = cloudinary_api_photowidget
 	url = https://github.com/Hadayxinchao/cloudinary_api_photowidget
+[submodule "simple_chat_app"]
+	path = simple_chat_app
+	url = https://github.com/Hadayxinchao/Simple_Chat_App
