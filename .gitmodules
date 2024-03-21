@@ -28,3 +28,6 @@
 [submodule "simple_chat_app"]
 	path = simple_chat_app
 	url = https://github.com/Hadayxinchao/Simple_Chat_App
+[submodule "odin_social_app"]
+	path = odin_social_app
+	url = https://github.com/Hadayxinchao/odin_social_app
