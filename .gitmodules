@@ -31,3 +31,6 @@
 [submodule "odin_social_app"]
 	path = odin_social_app
 	url = https://github.com/Hadayxinchao/odin_social_app
+[submodule "odin_social"]
+	path = odin_social
+	url = git@github.com:Hadayxinchao/odin_social_app.git
